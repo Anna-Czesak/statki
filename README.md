@@ -1,2 +1,4 @@
 # statki
-projekt zaliczeniowy 1-semestr
+projekt zaliczeniowy konsolowa gra statki
+
+
